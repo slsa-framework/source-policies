@@ -1,0 +1,14 @@
+{
+  "canonical_repo": "https://github.com/deobieta/slsa.git",
+  "protected_branches": [
+    {
+      "since": "2025-10-30T03:12:43.359Z",
+      "name": "main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_2"
+    }
+  ],
+  "protected_tag": {
+    "since": "2025-10-30T03:12:43.359Z",
+    "tag_hygiene": true
+  }
+}

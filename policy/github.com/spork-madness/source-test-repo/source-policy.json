@@ -1,0 +1,14 @@
+{
+  "canonical_repo": "https://github.com/spork-madness/source-test-repo.git",
+  "protected_branches": [
+    {
+      "since": "2026-02-17T01:53:52.993Z",
+      "name": "main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
+    }
+  ],
+  "protected_tag": {
+    "since": "2026-02-17T01:53:52.993Z",
+    "tag_hygiene": true
+  }
+}

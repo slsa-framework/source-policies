@@ -1,0 +1,21 @@
+{
+  "canonical_repo": "https://github.com/slsa-framework/slsa-source-poc",
+  "protected_branches": [
+    {
+      "name": "main",
+      "since": "2025-06-05T22:08:00.000Z",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3",
+      "org_status_check_controls": [
+        {
+          "check_name": "test",
+          "property_name": "ORG_SOURCE_TESTED",
+          "since": "2025-05-31T22:44:18.816Z"
+        }
+      ]
+    }
+  ],
+  "protected_tag": {
+    "tag_hygiene": true,
+    "since": "2025-02-25T17:27:49.445Z"
+  }
+}

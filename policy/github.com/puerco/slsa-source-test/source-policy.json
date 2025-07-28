@@ -1,0 +1,10 @@
+{
+  "canonical_repo": "https://github.com/puerco/slsa-source-test.git",
+  "protected_branches": [
+    {
+      "since": "0001-01-01T00:00:00.000Z",
+      "name": "refs/heads/main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_1"
+    }
+  ]
+}

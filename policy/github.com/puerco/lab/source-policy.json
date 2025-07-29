@@ -1,0 +1,10 @@
+{
+  "canonical_repo": "https://github.com/puerco/lab.git",
+  "protected_branches": [
+    {
+      "since": "2025-07-28T19:07:04.761Z",
+      "name": "refs/heads/master",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
+    }
+  ]
+}

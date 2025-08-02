@@ -2,7 +2,7 @@
   "canonical_repo": "https://github.com/carabiner-dev/revex.git",
   "protected_branches": [
     {
-      "since": "2025-08-02T03:39:04.679423705Z",
+      "since": "2025-08-02T03:28:37.441Z",
       "name": "main",
       "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
     }

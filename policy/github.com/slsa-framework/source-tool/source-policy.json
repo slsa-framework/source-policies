@@ -1,0 +1,14 @@
+{
+  "canonical_repo": "https://github.com/slsa-framework/source-tool.git",
+  "protected_branches": [
+    {
+      "since": "2025-02-25T17:27:49.445Z",
+      "name": "main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
+    }
+  ],
+  "protected_tag": {
+    "since": "2025-02-25T17:27:49.445Z",
+    "tag_hygiene": true
+  }
+}

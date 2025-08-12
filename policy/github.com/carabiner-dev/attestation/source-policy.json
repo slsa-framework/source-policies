@@ -1,0 +1,14 @@
+{
+  "canonical_repo": "https://github.com/carabiner-dev/attestation.git",
+  "protected_branches": [
+    {
+      "since": "2025-08-12T19:32:23.609Z",
+      "name": "main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
+    }
+  ],
+  "protected_tag": {
+    "since": "2025-08-12T19:31:16.670Z",
+    "tag_hygiene": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_repo": "https://github.com/carabiner-dev/policy.git",
+  "protected_branches": [
+    {
+      "since": "2025-08-13T03:05:20.377Z",
+      "name": "main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
+    }
+  ],
+  "protected_tag": {
+    "since": "2025-08-13T03:05:20.377Z",
+    "tag_hygiene": true
+  }
+}

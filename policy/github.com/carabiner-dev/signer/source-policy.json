@@ -1,0 +1,14 @@
+{
+  "canonical_repo": "https://github.com/carabiner-dev/signer.git",
+  "protected_branches": [
+    {
+      "since": "2025-08-14T02:18:55.155Z",
+      "name": "main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
+    }
+  ],
+  "protected_tag": {
+    "since": "2025-08-14T02:18:55.155Z",
+    "tag_hygiene": true
+  }
+}

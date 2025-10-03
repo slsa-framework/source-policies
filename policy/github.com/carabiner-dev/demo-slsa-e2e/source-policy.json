@@ -2,13 +2,13 @@
   "canonical_repo": "https://github.com/carabiner-dev/demo-slsa-e2e.git",
   "protected_branches": [
     {
-      "since": "2025-10-03T07:36:13.189Z",
+      "since": "2025-10-03T07:50:13.189Z",
       "name": "main",
       "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
     }
   ],
   "protected_tag": {
-    "since": "2025-10-03T07:36:13.189Z",
+    "since": "2025-10-03T07:50:13.189Z",
     "tag_hygiene": true
   }
 }

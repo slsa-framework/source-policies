@@ -1,0 +1,14 @@
+{
+  "canonical_repo": "https://github.com/DahuK/slsa-attestation-action-demo.git",
+  "protected_branches": [
+    {
+      "since": "2025-10-28T15:09:27.845Z",
+      "name": "main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
+    }
+  ],
+  "protected_tag": {
+    "since": "2025-10-28T15:09:27.845Z",
+    "tag_hygiene": true
+  }
+}

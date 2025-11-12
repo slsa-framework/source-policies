@@ -1,0 +1,14 @@
+{
+  "canonical_repo": "https://github.com/sbom-enforcer/sbom-enforcer.git",
+  "protected_branches": [
+    {
+      "since": "2025-11-12T18:15:02.405Z",
+      "name": "main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
+    }
+  ],
+  "protected_tag": {
+    "since": "2025-11-02T12:47:27.581Z",
+    "tag_hygiene": true
+  }
+}

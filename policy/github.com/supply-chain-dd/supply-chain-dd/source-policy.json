@@ -1,0 +1,14 @@
+{
+  "canonical_repo": "https://github.com/supply-chain-dd/supply-chain-dd.git",
+  "protected_branches": [
+    {
+      "since": "2026-05-13T10:47:44.612Z",
+      "name": "main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_2"
+    }
+  ],
+  "protected_tag": {
+    "since": "2026-05-13T10:47:44.612Z",
+    "tag_hygiene": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_repo": "https://github.com/moto-timo/bodnuti",
+  "protected_branches": [
+    {
+      "since": "2026-10-26T01:22:19.205Z",
+      "name": "main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
+    }
+  ],
+  "protected_tag": {
+    "since": "2026-10-26T01:22:19.205Z",
+    "tag_hygiene": true
+  }
+}

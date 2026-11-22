@@ -1,0 +1,14 @@
+{
+  "canonical_repo": "https://github.com/policylabs/collector",
+  "protected_branches": [
+    {
+      "since": "2026-11-22T02:25:46.347Z",
+      "name": "main",
+      "target_slsa_source_level": "SLSA_SOURCE_LEVEL_3"
+    }
+  ],
+  "protected_tag": {
+    "since": "2026-11-22T02:25:46.347Z",
+    "tag_hygiene": true
+  }
+}
